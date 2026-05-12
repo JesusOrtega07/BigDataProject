@@ -10,7 +10,7 @@ import plotly.express as px
 # LEER DATASET
 # ======================================
 
-df = pd.read_csv("data/infocana_limpio.csv")
+df = pd.read_csv("Data/infocana_limpio.csv")
 
 # ======================================
 # MODELO DE REGRESION
